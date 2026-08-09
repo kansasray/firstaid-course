@@ -96,7 +96,9 @@
     "openExternal": "在 YouTube 開啟",
     "emptyTitle": "沒有符合的內容",
     "emptyHint": "換個關鍵字,或把篩選條件清掉。",
-    "filterAllLabel": "全部"
+    "filterAllLabel": "全部",
+    "discussLabel": "討論",
+    "discussNote": "留言會同步到這門課 GitHub repo 的 Discussions,需要 GitHub 帳號才能發言。每支影片各有一串。"
   },
   "kinds": [
     {
@@ -285,6 +287,18 @@
   "footer": {
     "disclaimer": "**本課程是急救知識的教育參考,不是醫療訓練,不能取代實體急救課程與證照,更不構成醫療診斷或治療建議。**急救操作有其風險與時效,實際施作以現場專業救護人員與 119 指示為準;CPR 等技能請至消防局、紅十字會或醫院開設的實體課程取得練習與認證。影片版權屬各原始 YouTube 頻道,本站只做策展與導讀。",
     "credits": "教學影片策展自 YouTube 公開內容,版權屬各原始頻道所有。指引依據以 AHA 2025 年版與台灣衛福部、消防署公開教材為對照。**姊妹課程**:防災技能樹的其他部分,見「地圖學與軍用陸地導航」 landnav.pages.dev、「ATAK 防災地圖」 atak-course.pages.dev、「Meshtastic 離網通訊」 meshtastic-course.pages.dev。"
+  },
+  "discussions": {
+    "provider": "giscus",
+    "repo": "kansasray/firstaid-course",
+    "repoId": "R_kgDOTzba9Q",
+    "category": "Q&A",
+    "categoryId": "DIC_kwDOTzba9c4DDAuy",
+    "mapping": "specific",
+    "termPrefix": "firstaid",
+    "lang": "zh-TW",
+    "reactions": true,
+    "inputPosition": "top"
   },
   "llms": {
     "summary": "[[course]] 是一門策展自 YouTube 公開影片的防災急救課,分成基礎生命支持、創傷處置、災害與野外三部,共 [[durationHours]] 小時 [[durationMinutes]] 分。中文官方與 EMT 教學為骨幹,野外章以英文權威內容補足,單元說明與導讀為繁體中文。",
