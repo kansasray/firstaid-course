@@ -1,0 +1,71 @@
+{
+  "chapter": "CH9",
+  "units": [
+    {
+      "id": "ch9-u1",
+      "name": "心理急救 PFA",
+      "type": "concept",
+      "assessment": "看到剛經歷災害或意外的人，能不能先確認對方現在安不安全、有沒有立即需要，例如喝水、保暖、聯絡家人，不追問案發細節，不說「一切都會沒事」這類保證式安慰，陪著等專業資源到場就好。連續協助好幾位受災者之後，如果自己出現持續失眠、反覆想起相關畫面或提不起勁，代表也需要找人聊聊或暫停一段時間。能不能分辨這兩個判斷點，是這個單元學會了沒的依據。",
+      "lesson": {
+        "title": "遇到危急事故應怎面對？心理急救指南：如何正確提供情緒支援？說錯話容易造成二次傷害！究竟哪些問題不能問？| 心理情緒 | 說說心理話",
+        "channel": "健康好人生",
+        "url": "https://www.youtube.com/watch?v=yvl9kAzwubo",
+        "duration": "13:01",
+        "why": "健康好人生2024年11月26日發布，邀請香港紅十字會臨床心理學家暨心理支援服務主管張依勵，說明心理急救的概念。內容依序談心理急救是什麼、心理急救能不能避免創傷後遺症、是否有黃金時間、如何在情緒支援中避免造成二次傷害，以及心理急救的三個核心要素，最後談什麼時候介入最適合。三個核心要素段落對應國際通用的Look Listen Link（觀察、聆聽、連結）架構。累積6492次觀看。"
+      },
+      "drills": [
+        {
+          "name": "替代性創傷與自我照顧",
+          "en": "Vicarious trauma and self-care for helpers",
+          "kind": "lecture",
+          "target": "分辨自己是不是出現替代性創傷的反應，知道情緒波動時可以怎麼照顧自己",
+          "dose": "看一次，14分51秒，看完後對照自己最近有沒有片中提到的反應",
+          "title": "【十分鐘心理學】沒發生在我身上，卻覺得很痛：什麼是替代性創傷？",
+          "channel": "周慕姿放心說",
+          "url": "https://www.youtube.com/watch?v=rhSFuT0O8ZQ",
+          "duration": "14:51",
+          "why": "周慕姿放心說2025年6月2日發布。0:44起說明什麼是替代性創傷，也就是因為別人的痛苦而產生的強烈情緒反應；2:34起談為什麼有些人特別容易受影響；7:51起談出現情緒波動時可以怎麼照顧自己。對應這個單元「施救者自己也需要心理照顧」的部分，適合協助過受災者、看過大量災難畫面之後，檢查自己有沒有出現這些反應。累積12305次觀看。"
+        }
+      ]
+    },
+    {
+      "id": "ch9-u2",
+      "name": "整合演練：從發現到交接",
+      "type": "scenario",
+      "assessment": "遇到有人受傷或倒地，能不能照順序走一遍：先看現場安全，再檢查對方有沒有反應與呼吸，視情況做止血或CPR，同時請人打119並取得AED，等待期間持續觀察生命徵象。救護人員抵達後，能不能在30秒內講清楚四件事：發生什麼事、傷者現在的狀況、已經做了什麼處置、有沒有特殊病史或過敏。家庭或社區想練習這個流程，可以找一個人假扮傷者，其他人輪流練習打電話求救、做初步處置、交接這三個角色，確保每個人都做過一次交接的部分。",
+      "lesson": {
+        "title": "試煉24不間斷結訓演練-完整版(19分鐘42秒)",
+        "channel": "中華民國紅十字會",
+        "url": "https://www.youtube.com/watch?v=DJGKqIHfnRk",
+        "duration": "19:42",
+        "why": "中華民國紅十字會官方頻道2017年7月21日發布。「試煉24」是紅十字會城市搜救課程的結訓演練，模擬情境從災害發生後的支援動員一路演練到解散復原，總計24小時不間斷，把分開學的搜救與救護技能整合進同一場連續演練。片中是受訓學員與演練道具，沒有真實傷患畫面。累積680次觀看，是紅十字會自己留存的訓練紀錄。"
+      },
+      "drills": [
+        {
+          "name": "正確的傷患交接示範（英文）",
+          "en": "Correct Clinical Handover",
+          "kind": "official",
+          "target": "知道交接傷患時要講清楚哪四件事：文件紀錄、口頭說明、照護計畫、責任轉移",
+          "dose": "看一次，4分43秒，官方英語示範，可搭配YouTube字幕理解英語內容",
+          "title": "Correct Clinical Handover",
+          "channel": "South Western Sydney Local Health District",
+          "url": "https://www.youtube.com/watch?v=Rn6r_hFWP0Q",
+          "duration": "4:43",
+          "why": "澳洲南雪梨西區衛生局官方頻道2016年1月8日發布，是Liverpool醫院內部訓練用的交接示範影片。1:28起的standardised documentation說明要有標準化的書面紀錄；1:34起的verbal face to face communication示範面對面口頭說明；3:46起確認雙方對接下來的照護計畫（agreed plan of care）有共識；4:04起正式完成責任轉移（transfer of responsibility）。場景是醫院內護理師交班，但交接要講清楚的內容和現場急救人員交接給救護人員是同一組資訊：發生什麼事、傷者現況、已經做過的處置、接下來要注意什麼。中文找不到內容同樣完整的交接示範，用這支片補足。關鍵詞對照：handover交接、standardised documentation標準化文件紀錄、transfer of responsibility責任轉移。累積334808次觀看。"
+        },
+        {
+          "name": "傷患評估全流程示範（英文）",
+          "en": "Full Patient Assessment: Wilderness Medicine Scenario with Medical Patient",
+          "kind": "walkthrough",
+          "target": "看懂一次完整評估的四個階段：現場確認、初步評估、重點評估、擬定處置計畫",
+          "dose": "看一次，5分51秒，可搭配YouTube字幕理解英語內容",
+          "title": "Full Patient Assessment: Wilderness Medicine Scenario with Medical Patient",
+          "channel": "Longleaf Wilderness Medicine",
+          "url": "https://www.youtube.com/watch?v=CQEE-G7vx6g",
+          "duration": "5:51",
+          "why": "Longleaf Wilderness Medicine 2021年3月19日發布，示範對一位非創傷（醫療型）傷患做完整評估的流程，依序是現場情況確認（scene size up）、初步評估（initial assessment）、重點評估（focused assessment）、擬定處置計畫（treatment plan）。整段流程跟這個單元「評估到施救」的順序一致，可以對照CH1到CH8學過的個別技能怎麼在一次評估裡串起來用。關鍵詞對照：scene size up現場情況確認、initial assessment初步評估、focused assessment重點評估、treatment plan處置計畫。累積20799次觀看。"
+        }
+      ]
+    }
+  ]
+}

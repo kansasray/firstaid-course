@@ -1,0 +1,99 @@
+{
+  "chapter": "CH8",
+  "title": "野外長時間照護",
+  "units": [
+    {
+      "id": "ch8-u1",
+      "name": "野外急救的思維差異",
+      "type": "concept",
+      "assessment": "能具體說出野外急救與都市急救的三個關鍵差異：後送時間可能長達數小時到數天，而不是等待救護車的幾分鐘；身邊只有隨身裝備，沒有完整的醫療資源；環境本身（高溫、低溫、地形、天候）是持續存在的威脅，而不是背景因素。能說出「傷患評估系統」（Patient Assessment System）的用途：在資源有限、又有救援時間壓力的狀況下，依序判斷傷患的嚴重程度與後送緩急，而不是憑印象處理。遇到傷患時，能區分現場安全確認與生命徵象檢查（對應都市急救的 primary survey）跟接下來更完整的病史詢問與身體檢查（對應 secondary survey）兩個階段，並說出為什麼野外情境需要反覆重新評估傷患，而不是評估一次就結束。",
+      "lesson": {
+        "title": "S4 EP3. 【訪談】野外 vs. 城市，急救大不同 x WFA教你怎麼在惡劣環境下進行急救！feat. 蔡奕緯 (中)",
+        "channel": "岳來岳快樂 Hiker's High",
+        "url": "https://www.youtube.com/watch?v=PqC3T7GfA4A",
+        "duration": "38:51",
+        "why": "岳來岳快樂 Hiker's High於2021年7月16日發布的訪談節目，邀請國際野外醫學協會（WMAI）野外急救教練蔡奕緯對談。全片為訪談形式，沒有章節標記。內容圍繞野外急救與都市急救的差異展開：救護車和救援人員無法及時到達時該如何處理、環境惡劣又沒有通訊訊號時的應對方式，以及WMAI課程核心的「傷患評估系統」（Patient Assessment System，PAS）如何在救援壓力下協助判斷傷患嚴重程度與後送緩急順序。中文找不到逐步操作的野外急救教學片，這支訪談是少數直接對應「野外急救的思維差異」主題的中文內容，用來銜接後面以英文操作示範為主的內容。片長38分51秒，累積441次觀看。"
+      },
+      "drills": [
+        {
+          "name": "野外傷患評估系統示範（英語）",
+          "en": "NOLS Wilderness Medicine: Patient Assessment",
+          "kind": "official",
+          "target": "示範野外情境下的傷患評估系統（Patient Assessment System），理解如何依序完成現場安全確認、生命徵象檢查與病史詢問",
+          "dose": "觀看一次，10分27秒，重點在0:10起的Patient Assessment System，示範NOLS野外醫學教官在情境演練中依序執行評估流程，可搭配YouTube字幕理解英語內容",
+          "title": "Wilderness Medicine | Patient Assessment",
+          "channel": "NOLS",
+          "url": "https://www.youtube.com/watch?v=hXQAmx2AYIk",
+          "duration": "10:27",
+          "why": "NOLS官方頻道（國家戶外領導學校）於2012年11月28日發布，是NOLS野外醫學課程（WMI）的教學示範片。0:10起的Patient Assessment System完整示範野外情境下的傷患評估流程，3:20起檢查肩部傷勢的身體檢查段落，7:13起詢問主訴（Chief Complaint）與8:11起詢問症狀（Symptoms）對應都市急救中的病史詢問，8:47起的Fluid Intake確認傷患飲水狀況。這是完整示範一套評估系統操作畫面的英語教學，中文找不到同等系統化的示範版本，用來補強評估流程的具體畫面。關鍵詞對照：patient assessment傷患評估、chief complaint主訴、vital signs生命徵象。片長10分27秒，累積250,849次觀看，是本章查到觀看數最高的影片。"
+        }
+      ]
+    },
+    {
+      "id": "ch8-u2",
+      "name": "長時間照護技能",
+      "type": "skill",
+      "assessment": "能說出開放性傷口在等待後送期間的照護原則：先以清水沖洗傷口去除異物與髒污，撕裂傷要沖乾淨後才能包紮，並且要固定時間（例如每四小時）掀開敷料檢查一次，觀察傷口周圍是否出現紅腫加劇、化膿或疼痛加重等感染徵象，一旦出現就要提高後送的急迫性。能正確組裝一份簡易保暖包裹（hypo wrap）：先鋪防水層隔絕地面與外部濕氣，中間包裹保暖層，最後固定並留出頭部呼吸空間，用在體溫流失但暫時無法立即後送的傷患身上。能判斷野外長時間活動時飲水是否足夠：口渴感、頭痛與注意力下降是脫水的早期徵象，這些徵象也可能和高海拔病症重疊，出現時要立即補水並考慮是否需要調整行程，而不是等到症狀嚴重才處理。",
+      "lesson": {
+        "title": "WFA Wound Management",
+        "channel": "Colorado Mountain Club",
+        "url": "https://www.youtube.com/watch?v=dKu1r-GPH8c",
+        "duration": "20:13",
+        "why": "Colorado Mountain Club於2020年7月15日發布，由該登山社的野外急救教官示範多種傷口的處理方式。1:14起示範擦傷（abrasion）的清潔步驟：先加壓止血，血止住後用肥皂水或酒精性消毒液反覆刷洗傷口。11:55起講解等待後送期間的傷口監測原則：每隔四小時掀開敷料檢查一次穿刺傷或撕裂傷是否出現感染加劇的徵象，並重新清潔、更換乾淨敷料。12:44起示範撕裂傷（laceration）的沖洗技巧：先用紗布止血，止血後用乾淨的水加壓沖洗傷口，並提醒沖洗時要戴護目鏡與口罩避免噴濺。影片中段4:40到11:55是膝關節骨折固定示範，對應本課CH5的包紮固定內容；16:00之後是頭皮撕裂傷止血與意識評估示範，對應CH4止血與檢傷評估的內容，這兩段可以跳過不看。中文找不到涵蓋「等待後送期間傷口監測」這類長時間照護細節的教學片，用這支英語示範補足。關鍵詞對照：infection感染、irrigate沖洗、evacuation後送。片長20分13秒，累積313次觀看。"
+      },
+      "drills": [
+        {
+          "name": "低體溫包裹組裝示範（英語）",
+          "en": "How to do a hypothermia wrap (hypo wrap)",
+          "kind": "walkthrough",
+          "target": "示範野外情境下組裝一份低體溫包裹（hypo wrap）的完整步驟，包含防水層、保暖層與固定方式",
+          "dose": "觀看一次，3分46秒，0:00起的Vapor Barrier示範防水層鋪設，1:30起的Daisy Chain示範保暖層固定帶纏繞方式，2:49起的Create a Hood示範預留頭部呼吸空間",
+          "title": "How to do a hypothermia wrap (hypo wrap)",
+          "channel": "Boreal River",
+          "url": "https://www.youtube.com/watch?v=DVYydzin79c",
+          "duration": "3:46",
+          "why": "Boreal River於2020年12月17日發布，由該野外醫療訓練機構的教官Alex Traynor示範完整的低體溫包裹（hypo wrap）組裝流程。0:00起的Vapor Barrier先鋪設防水層隔絕地面濕氣，1:30起的Daisy Chain用繩帶固定保暖層，2:49起的Create a Hood預留頭部呼吸空間同時維持保暖。影片說明hypo wrap同時適用於輕度與重度失溫患者，也可以在等待後送期間持續維持患者體溫。中文找不到示範完整組裝步驟的教學片，用這支英語示範補足操作畫面。關鍵詞對照：hypothermia wrap低體溫包裹、vapor barrier防水層。片長3分46秒，累積17,351次觀看。"
+        },
+        {
+          "name": "脫水徵象辨識（英語）",
+          "en": "Wilderness Medicine: Dehydration and Altitude Illness",
+          "kind": "lecture",
+          "target": "辨識野外長時間活動時脫水的早期徵象，理解脫水與高海拔病症之間容易混淆的地方",
+          "dose": "觀看一次，1分14秒，醫師直接講解脫水與急性高山症的相似徵象",
+          "title": "Wilderness Medicine: Dehydration and Altitude Illness",
+          "channel": "MedWild - Wilderness Medicine, Survival, Rescue",
+          "url": "https://www.youtube.com/watch?v=bhadSkPySKI",
+          "duration": "1:14",
+          "why": "MedWild頻道於2012年12月26日發布，是該頻道17支高海拔病症系列短片的第3支，由Dr. Donner講解脫水（dehydration）與急性高山症（acute mountain sickness）在徵象上的相似之處，包含頭痛、注意力下降等重疊症狀，說明野外長時間活動時很難只靠單一徵象判斷是脫水還是高山症，需要合併評估飲水量與活動海拔。這支片聚焦慢性脫水的辨識，和CH6討論的急性中暑、熱衰竭是不同情境。中文找不到聚焦脫水徵象辨識的教學片，用這支英語短片補足。關鍵詞對照：dehydration脫水、acute mountain sickness急性高山症。片長1分14秒，累積12,528次觀看。"
+        }
+      ]
+    },
+    {
+      "id": "ch8-u3",
+      "name": "後送決策與改良搬運",
+      "type": "skill",
+      "assessment": "能判斷什麼情況下傷患可以自行走出山區、什麼情況需要人力搬運、什麼情況必須直接叫直升機後送：意識清楚、生命徵象穩定且只有輕微外傷的傷患通常可以在協助下自行走出；下肢受傷但意識清楚，可以用人力搬運或改良擔架抬出；意識不清、生命徵象不穩定，或搬運會讓傷勢明顯惡化的傷患，則要優先考慮直升機後送而不是勉強搬運。能用現場材料組裝一份簡易搬運工具，例如用一條登山繩打出繩索擔架，並知道搬運時要持續為傷患保暖、避開需要側切的陡峭地形以免翻覆。在台灣，山域事故可撥打119或112求援，112在手機沒有訊號或未插SIM卡時仍可能撥通，需要直升機支援時由消防或警察機關通報國家搜救指揮中心受理，實際後送方式仍以現場救護人員的判斷為準。",
+      "lesson": {
+        "title": "Backcountry Rescue Series Webisode 3: Backcountry Evacuation",
+        "channel": "Backcountry Access",
+        "url": "https://www.youtube.com/watch?v=AVCZFDPB9w0",
+        "duration": "7:12",
+        "why": "Backcountry Access於2016年8月15日發布，是該公司「Backcountry Rescue Series」系列的第3集，由美國雪崩協會（American Avalanche Institute）負責人Sarah Carpenter示範野外傷患的後送流程。0:45起講解固定骨折傷處，1:35起示範用滑雪板與繩索做出簡易夾板，2:25起開始用背包與滑雪板搭建簡易雪橇（sled）搬運傷患，2:46起提醒搬運中要持續為傷患加鋪保暖層避免搬運中失溫，3:34起提醒搬運雪橇要避開側切陡坡以免翻覆，4:11起用登山杖與布料做風擋，4:48到6:16示範折松枝、挖掘避風溝並固定防水布搭建臨時庇護所。影片情境是北美雪季的雪崩後送，搬運工具（滑雪板雪橇）與地形（積雪）和台灣多數山域不同，但「先固定傷勢、再搭建搬運工具、搬運中持續保暖、避開危險地形」的後送組織邏輯可以直接套用。中文找不到示範完整後送組織流程的教學片，用這支英語示範補足。片長7分12秒，累積1,006次觀看。"
+      },
+      "drills": [
+        {
+          "name": "繩索擔架示範（英語）",
+          "en": "Wilderness Medicine: Rope litter",
+          "kind": "walkthrough",
+          "target": "示範不使用擔架器材時，如何用一條登山繩打出簡易繩索擔架",
+          "dose": "觀看一次，3分56秒，全片為單一繩索擔架的打結與收尾示範，沒有旁白說明，需要自行觀察手法",
+          "title": "Wilderness Medicine: Rope litter",
+          "channel": "MadiganHealthcare",
+          "url": "https://www.youtube.com/watch?v=f1PYnel1g14",
+          "duration": "3:56",
+          "why": "MadiganHealthcare於2013年4月30日發布，是Madigan陸軍醫學中心野外醫學團隊的示範影片，全片沒有旁白，直接示範如何用一條登山繩打出繩索擔架（rope litter）。這種只需一條繩子就能做出擔架的技巧，在缺乏專用擔架器材時特別實用，可以用在需要多人一起搬運、但沒有背包或雪橇材料的情境。中文找不到示範繩索擔架技巧的教學片，用這支英語示範補足操作畫面。關鍵詞對照：rope litter繩索擔架。片長3分56秒，累積40,017次觀看。"
+        }
+      ]
+    }
+  ]
+}
