@@ -24,4 +24,5 @@ COURSE=courses/firstaid COOKIES_BROWSER= uv run python src/build/fetch_meta.py
 
 ## 狀態(2026-08-10 完成)
 - **verify 71/71、audit 0 錯誤 1 警告、89 tests 全過**;71 支零跨章重複;最大頻道佔比 14.1%(安妮怎麼了)
-- (部署後補:上線網址與 GitHub repo)
+- **已上線 https://firstaid-course.pages.dev**(Pages 專案 firstaid-course;新部署冷啟動先回 522 屬正常)
+- **GitHub**:kansasray/firstaid-course(public,Discussions 已開,giscus 已填待裝 App)
